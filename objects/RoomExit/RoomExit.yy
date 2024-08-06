@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite9",
-    "path":"sprites/Sprite9/Sprite9.yy",
+    "name":"s_RoomExit",
+    "path":"sprites/s_RoomExit/s_RoomExit.yy",
   },
   "spriteMaskId":null,
   "visible":false,

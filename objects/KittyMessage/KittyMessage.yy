@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"bug",
+  "%Name":"KittyMessage",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Rent","path":"objects/Rent/Rent.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"bug",
+  "name":"KittyMessage",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_bug",
-    "path":"sprites/s_bug/s_bug.yy",
+    "name":"s_ItGrew",
+    "path":"sprites/s_ItGrew/s_ItGrew.yy",
   },
   "spriteMaskId":null,
   "visible":true,

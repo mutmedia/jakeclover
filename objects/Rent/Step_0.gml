@@ -26,8 +26,6 @@ if _dx != 0 {
 	image_xscale = sign(_dx)
 }
 
-show_debug_message(depth)
-
 if _dx = 0 and _dy = 0 {
 	image_index = 0
 }

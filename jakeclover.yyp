@@ -50,6 +50,8 @@
     {"id":{"name":"r_GardenL1","path":"rooms/r_GardenL1/r_GardenL1.yy",},},
     {"id":{"name":"r_GardenR1","path":"rooms/r_GardenR1/r_GardenR1.yy",},},
     {"id":{"name":"r_House0","path":"rooms/r_House0/r_House0.yy",},},
+    {"id":{"name":"m_campfire","path":"sounds/m_campfire/m_campfire.yy",},},
+    {"id":{"name":"m_cut1","path":"sounds/m_cut1/m_cut1.yy",},},
     {"id":{"name":"m_free","path":"sounds/m_free/m_free.yy",},},
     {"id":{"name":"s_arrow","path":"sprites/s_arrow/s_arrow.yy",},},
     {"id":{"name":"s_bug","path":"sprites/s_bug/s_bug.yy",},},

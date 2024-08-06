@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"RoomEntrance",
+  "%Name":"bug",
   "eventList":[],
   "managed":true,
-  "name":"RoomEntrance",
+  "name":"bug",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_arrow",
-    "path":"sprites/s_arrow/s_arrow.yy",
+    "name":"s_bug",
+    "path":"sprites/s_bug/s_bug.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

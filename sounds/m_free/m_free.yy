@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"music_",
+  "%Name":"m_free",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,16 +10,16 @@
   "compression":0,
   "conversionMode":0,
   "duration":136.36351,
-  "name":"music_",
+  "name":"m_free",
   "parent":{
-    "name":"jakeclover",
-    "path":"jakeclover.yyp",
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":48000,
-  "soundFile":"music_.wav",
+  "soundFile":"m_free.wav",
   "type":0,
   "volume":1.0,
 }

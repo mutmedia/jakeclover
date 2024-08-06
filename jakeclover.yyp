@@ -34,8 +34,10 @@
   },
   "name":"jakeclover",
   "resources":[
+    {"id":{"name":"f_Lucida","path":"fonts/f_Lucida/f_Lucida.yy",},},
     {"id":{"name":"Bush","path":"objects/Bush/Bush.yy",},},
     {"id":{"name":"Cloud","path":"objects/Cloud/Cloud.yy",},},
+    {"id":{"name":"Damon","path":"objects/Damon/Damon.yy",},},
     {"id":{"name":"Fullscree","path":"objects/Fullscree/Fullscree.yy",},},
     {"id":{"name":"kitty","path":"objects/kitty/kitty.yy",},},
     {"id":{"name":"playerdata","path":"objects/playerdata/playerdata.yy",},},
@@ -49,6 +51,7 @@
     {"id":{"name":"music_","path":"sounds/music_/music_.yy",},},
     {"id":{"name":"s_Bush","path":"sprites/s_Bush/s_Bush.yy",},},
     {"id":{"name":"s_Cloud","path":"sprites/s_Cloud/s_Cloud.yy",},},
+    {"id":{"name":"s_Damon","path":"sprites/s_Damon/s_Damon.yy",},},
     {"id":{"name":"s_House0","path":"sprites/s_House0/s_House0.yy",},},
     {"id":{"name":"s_kitty","path":"sprites/s_kitty/s_kitty.yy",},},
     {"id":{"name":"s_Rent","path":"sprites/s_Rent/s_Rent.yy",},},

@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"kitty",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Damon",
+  "eventList":[],
   "managed":true,
-  "name":"kitty",
+  "name":"Damon",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_kitty",
-    "path":"sprites/s_kitty/s_kitty.yy",
+    "name":"s_Damon",
+    "path":"sprites/s_Damon/s_Damon.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite10",
-    "path":"sprites/Sprite10/Sprite10.yy",
+    "name":"s_arrow",
+    "path":"sprites/s_arrow/s_arrow.yy",
   },
   "spriteMaskId":null,
   "visible":false,

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"music_",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":512,
+  "compression":0,
+  "conversionMode":0,
+  "duration":136.36351,
+  "name":"music_",
+  "parent":{
+    "name":"jakeclover",
+    "path":"jakeclover.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"music_.wav",
+  "type":0,
+  "volume":1.0,
+}

@@ -46,6 +46,7 @@
     {"id":{"name":"r_GardenL1","path":"rooms/r_GardenL1/r_GardenL1.yy",},},
     {"id":{"name":"r_GardenR1","path":"rooms/r_GardenR1/r_GardenR1.yy",},},
     {"id":{"name":"r_House0","path":"rooms/r_House0/r_House0.yy",},},
+    {"id":{"name":"music_","path":"sounds/music_/music_.yy",},},
     {"id":{"name":"s_Bush","path":"sprites/s_Bush/s_Bush.yy",},},
     {"id":{"name":"s_Cloud","path":"sprites/s_Cloud/s_Cloud.yy",},},
     {"id":{"name":"s_House0","path":"sprites/s_House0/s_House0.yy",},},
